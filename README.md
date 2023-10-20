@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aslam and I'm a . from UZBEKISTAN</h2>
+<h2 align="left">Hi 👋! My name is Aslam and I'm a Junior, I'm from UZBEKISTAN</h2>
 
 ###
 
